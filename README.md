@@ -1,3 +1,5 @@
+https://discord.gg/huQjW2qZdv
+
 # Test Build Installation
 
 ## Install Fortunes and MSU
