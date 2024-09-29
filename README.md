@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1XNRBck5FroT7X98iEDStlzJSTqamtYSE?usp=dri
 
 [![Screenshot-2024-07-30-122245.png](https://i.postimg.cc/4ygNL89B/Screenshot-2024-07-30-122245.png)](https://drive.google.com/drive/folders/1XNRBck5FroT7X98iEDStlzJSTqamtYSE?usp=drive_link)
 
-### You should now have exactly 43 mods with Fortunes and MSU at the bottom
+### You should now have exactly 44 mods with Fortunes and MSU at the bottom
 
 [![Screenshot-2024-07-30-123525.png](https://i.postimg.cc/N0P5G7rx/Screenshot-2024-07-30-123525.png)]()
 
